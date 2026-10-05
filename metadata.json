@@ -1,22 +1,23 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "NumPy: Solving Matrix Equations using numpy.linalg.solve()",
+    "slug": "numpy-solving-matrix-equations-linalg-solve",
+    "description": "How to solve matrix equations using numpy.linalg.solve().",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "numpy",
+        "linear-algebra"
     ],
-    "duration": 0,
+    "duration": 4,
     "prerequisites": [
-        "",
-        ""
+        "numpy-arrays-with-multiple-dimensions",
+        "programming-calling-functions",
+        "maths-matrix-equations"
     ],
     "related": [
-        "",
-        ""
+    ],
+    "python_packages": [
+        "numpy"
     ]
 }
