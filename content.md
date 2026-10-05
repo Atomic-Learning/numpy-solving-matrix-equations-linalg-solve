@@ -1,7 +1,7 @@
 The NumPy function [`numpy.linalg.solve()`](https://numpy.org/doc/stable/reference/generated/numpy.linalg.solve.html) is used to solve matrix equations of the form $Ax = b$, where $A$ is a square matrix and $b$ is a vector or matrix of the same dimension. It receives two arguments:
 
-- `a`: The square matrix representing the coefficients of the system of equations.
-- `b`: The vector or matrix representing the right-hand side of the equation.
+- `a`: A two-dimensional NumPy array representing the square matrix of coefficients of the system of equations.
+- `b`: A one-dimensional or two-dimensional NumPy array representing the right-hand side of the equation.
 
 # Example
 
