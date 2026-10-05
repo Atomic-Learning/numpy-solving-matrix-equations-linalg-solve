@@ -9,7 +9,7 @@ We want to solve the matrix equation:
 
 $$
 \begin{bmatrix}
-\1 & 2 \\
+1 & 2 \\
 3 & 4
 \end{bmatrix}
 \begin{bmatrix}
