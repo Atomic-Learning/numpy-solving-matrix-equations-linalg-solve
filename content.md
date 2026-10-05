@@ -25,7 +25,7 @@ $$
 
 To solve the equation we must represent the matrix as a 2-dimensional NumPy array and the vector as a 1-dimensional NumPy array then pass these arrays to the `numpy.linalg.solve()` function.
 
-```python
+```py-cell
 import numpy as np
 
 matrix = np.array([[1, 2], [3, 4]])
