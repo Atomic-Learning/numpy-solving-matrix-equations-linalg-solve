@@ -13,7 +13,8 @@
     "prerequisites": [
         "numpy-arrays-with-multiple-dimensions",
         "programming-calling-functions",
-        "maths-matrix-equations"
+        "maths-matrix-equations",
+        "python-importing-from-submodules-in-packages"
     ],
     "related": [
     ],
