@@ -9,7 +9,7 @@
         "numpy",
         "linear-algebra"
     ],
-    "duration": 3,
+    "duration": 4,
     "prerequisites": [
         "numpy-arrays-with-multiple-dimensions",
         "programming-calling-functions",

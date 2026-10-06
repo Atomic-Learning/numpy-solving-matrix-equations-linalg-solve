@@ -34,3 +34,7 @@ rhs = np.array([5, 11])
 x = np.linalg.solve(matrix, rhs)
 print(x)
 ```
+
+# Performance
+
+`numpy.linalg.solve()` is highly optimised for solving the matrix equation and is efficient for a wide range of problems. However, it will not solve the equation in a reasonable amount of time if the matrix is extremely large or ill-suited for the approach it takes. In such cases, an alternative approach may be required.
